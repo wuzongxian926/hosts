@@ -1,4 +1,4 @@
-#Current Version 13
+#Current Version 14
 #Newest Version http://go.netsh.org/link/getipv6hosts
 # Apple Services
 # Note that Apple Services is only for Mac App Store + iTunes Live Streams
@@ -6046,6 +6046,8 @@
 2a00:1450:4009:80d::200c    compress.googlezip.net
 
 # g-Global-etc
+2404:6800:4004:80b::ca0a    cse.google.com
+2404:6800:4004:80b::ca0a    bpui0.google.com
 2404:6800:4004:80b::ca0a    aboutme.google.com
 2404:6800:4004:80b::ca0a    googledrive.com
 2404:6800:4004:80b::ca0a    sheets.google.com
@@ -9144,6 +9146,35 @@
 2620:0:861:1:208:80:154:53    ganglia.wikimedia.org
 
 #Facebook
+
+2a03:2880:2130:cf24:face:b00c:0:25de    fb.me
+2a03:2880:f013:13:face:b00c:0:1823    video.xx.fbcdn.net
+2a03:2880:f013:8:face:b00c:0:1    scontent.xx.fbcdn.net
+2a03:2880:f013:8:face:b00c:0:1    scontent-a.xx.fbcdn.net
+2a03:2880:f013:8:face:b00c:0:1    scontent-b.xx.fbcdn.net
+2a03:2880:f013:8:face:b00c:0:1    scontent-c.xx.fbcdn.net
+2a03:2880:f013:8:face:b00c:0:1    scontent-d.xx.fbcdn.net
+2a02:26f0:5d::173f:638a    fbexternal-a.akamaihd.net
+2a02:26f0:5d::173f:63c9    fbcdn-creative-a.akamaihd.net
+
+2a02:26f0:5d::173f:638a    fbcdn-vthumb-a.akamaihd.net
+2a02:26f0:5d::173f:63ba    fbcdn-video-a-a.akamaihd.net
+2a02:26f0:5d::173f:6398    fbcdn-video-b-a.akamaihd.net
+2a02:26f0:5d::173f:6383    fbcdn-video-c-a.akamaihd.net
+2a02:26f0:5d::173f:6382    fbcdn-video-d-a.akamaihd.net
+2a02:26f0:5d::173f:6389    fbcdn-video-e-a.akamaihd.net
+2a02:26f0:5d::173f:63a0    fbcdn-video-f-a.akamaihd.net
+2a02:26f0:5d::173f:63ab    fbcdn-video-g-a.akamaihd.net
+2a02:26f0:5d::173f:6382    fbcdn-video-h-a.akamaihd.net
+2a02:26f0:5d::173f:6391    fbcdn-video-i-a.akamaihd.net
+2a02:26f0:5d::173f:63b1    fbcdn-video-j-a.akamaihd.net
+2a02:26f0:5d::173f:63b2    fbcdn-video-k-a.akamaihd.net
+2a02:26f0:5d::173f:639a    fbcdn-video-l-a.akamaihd.net
+2a02:26f0:5d::173f:63b8    fbcdn-video-m-a.akamaihd.net
+2a02:26f0:5d::173f:6398    fbcdn-video-n-a.akamaihd.net
+2a02:26f0:5d::173f:6393    fbcdn-video-o-a.akamaihd.net
+2a02:26f0:5d::173f:63b2    fbcdn-video-p-a.akamaihd.net
+
 2a03:2880:2020:6f03:face:b00c::1    mqtt.facebook.com
 2001:668:108:1::4d43:44b    fbcdn-sphotos-a-a.akamaihd.net
 2001:668:108:1::4d43:438    fbcdn-sphotos-b-a.akamaihd.net
@@ -9153,10 +9184,6 @@
 2001:668:108:1::4d43:431    fbcdn-sphotos-f-a.akamaihd.net
 2a02:26f0:5d::173f:6340    fbcdn-sphotos-g-a.akamaihd.net
 2a02:26f0:5d::173f:6330    fbcdn-sphotos-h-a.akamaihd.net
-
-2a03:2880:f013:8:face:b00c:0:1    scontent.xx.fbcdn.net
-2a03:2880:f013:8:face:b00c:0:1    scontent-a.xx.fbcdn.net
-2a03:2880:f013:8:face:b00c:0:1    scontent-b.xx.fbcdn.net
 
 2001:778:0:ffff:64:0:45ab:e329    0-333.channel.facebook.com
 2001:778:0:ffff:64:0:45ab:e329    1-333.channel.facebook.com
@@ -9364,3 +9391,4 @@ cs107.wac.edgecastcdn.net    abs.twimg.com
 2001:778:0:ffff:64:0:4815:c210    twitter-widgets.s3.amazonaws.com
 2001:778:0:ffff:64:0:cdfb:f2c5    xinyusi.s3.amazonaws.com
 #END OF ALL
+
