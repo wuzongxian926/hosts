@@ -1,4 +1,5 @@
 # Current Version 60
+# = prev + d(Facebook) + d(+video.xx.fbcdn.net) + d(+takeout.google.com)
 # Newest Version http://go.netsh.org/link/gethosts
 #Github
 192.30.252.131    github.com
@@ -8499,3 +8500,4 @@ static.ak.fbcdn.net    origincache-starfacebook-ai-01-05-ash3.facebook.com
 69.171.235.49    vupload2.vvv.facebook.com
 # END fb
 # END OF ALL
+
