@@ -1,5 +1,5 @@
-#Current Version 16
-#Newest Version http://go.netsh.org/link/getipv6hosts
+# Current Version 16.1
+# Newest Version http://go.netsh.org/link/getipv6hosts
 # Apple Services
 # Note that Apple Services is only for Mac App Store + iTunes Live Streams
 # Note that Apple Services is unstable
@@ -5918,27 +5918,27 @@
 2404:6800:4008:c02::11    accounts.google.cat
 
 # g-Ad-Services + g-Analytics (CHN)
-2607:f8b0:4005:802::1019    static.googleadsserving.cn
-2607:f8b0:4005:802::1019    ad.doubleclick.net
-2607:f8b0:4005:802::1019    ad-g.doubleclick.net
-2607:f8b0:4005:802::1019    ad-apac.doubleclick.net
-2607:f8b0:4005:802::1019    dart-apac.l.doubleclick.net
-2607:f8b0:4005:802::1019    dart.l.doubleclick.net
-2607:f8b0:4005:802::1019    n4061ad.hk.doubleclick.net
-2607:f8b0:4005:802::1019    fls.doubleclick.net
-2607:f8b0:4005:802::1019    survey.g.doubleclick.net
-2607:f8b0:4005:802::1019    googleads.g.doubleclick.net
-2607:f8b0:4005:802::1019    feedads.g.doubleclick.net
-2607:f8b0:4005:802::1019    pubads.g.doubleclick.net
-2607:f8b0:4005:802::1019    www.googletagservices.com
-2607:f8b0:4005:802::1019    partnerad.l.doubleclick.net
-2607:f8b0:4005:802::1019    pagead2.googlesyndication.com
-2607:f8b0:4005:802::1019    pagead2.googleadservices.com
-2607:f8b0:4005:802::1019    pagead.l.google.com
-2607:f8b0:4005:802::1019    www.google-analytics.com
-2607:f8b0:4005:802::1019    ssl.google-analytics.com
-2607:f8b0:4005:802::1019    www.googleadservices.com
-2607:f8b0:4005:802::1019    tpc.googlesyndication.com
+2a00:1450:4009:802::2002    static.googleadsserving.cn
+2a00:1450:4009:802::2002    ad.doubleclick.net
+2a00:1450:4009:802::2002    ad-g.doubleclick.net
+2a00:1450:4009:802::2002    ad-apac.doubleclick.net
+2a00:1450:4009:802::2002    dart-apac.l.doubleclick.net
+2a00:1450:4009:802::2002    dart.l.doubleclick.net
+2a00:1450:4009:802::2002    n4061ad.hk.doubleclick.net
+2a00:1450:4009:802::2002    fls.doubleclick.net
+2a00:1450:4009:802::2002    survey.g.doubleclick.net
+2a00:1450:4009:802::2002    googleads.g.doubleclick.net
+2a00:1450:4009:802::2002    feedads.g.doubleclick.net
+2a00:1450:4009:802::2002    pubads.g.doubleclick.net
+2a00:1450:4009:802::2002    www.googletagservices.com
+2a00:1450:4009:802::2002    partnerad.l.doubleclick.net
+2a00:1450:4009:802::2002    pagead2.googlesyndication.com
+2a00:1450:4009:802::2002    pagead2.googleadservices.com
+2a00:1450:4009:802::2002    pagead.l.google.com
+2a00:1450:4009:802::2002    www.google-analytics.com
+2a00:1450:4009:802::2002    ssl.google-analytics.com
+2a00:1450:4009:802::2002    www.googleadservices.com
+2a00:1450:4009:802::2002    tpc.googlesyndication.com
 
 # g-usr-content + g-CN (CHN)
 2607:f8b0:400e:c04::a0    265.com
