@@ -5,11 +5,12 @@
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?d806c3d7d760e2d7972109ae2f65de3c";
+  hm.src = "//hm.baidu.com/hm.js?1296d30e3be6442429e2f30c77dbf0fb";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
+
 
 <title>我的第一个 HTML 页面</title>
 </head>
