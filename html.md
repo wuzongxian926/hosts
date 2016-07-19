@@ -5,6 +5,7 @@
 </head>
 
 <body>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=www.twzy.tw/&digit=style/plain/1/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.fabbly.com" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">www.fabbly.com</a>
 <p>body 元素的内容会显示在浏览器中。</p>
 <p>title 元素的内容会显示在浏览器的标题栏中。</p>
 <SCRIPT language=JavaScript>
@@ -58,6 +59,7 @@ setCookie("counter", visits, now)
 document.write("您是第" + visits + "位")
 // -->
 </SCRIPT>
+
 </body>
 
 </html>
