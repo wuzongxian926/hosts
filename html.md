@@ -1,6 +1,16 @@
 <html>
 
 <head>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?cedda6a75c66f5d0cdfe0db3ca3bc22f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 <title>我的第一个 HTML 页面</title>
 </head>
 
