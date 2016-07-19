@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=www.twzy.tw/&digit=style/plain/1/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.fabbly.com" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">www.fabbly.com</a>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=www.twzy.tw/&digit=style/plain/1/&reloads=0" alt="" title="" border="0"></a><br />
 <p>body 元素的内容会显示在浏览器中。</p>
 <p>title 元素的内容会显示在浏览器的标题栏中。</p>
 <SCRIPT language=JavaScript>
