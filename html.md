@@ -1,15 +1,7 @@
 <html>
 
 <head>
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?1296d30e3be6442429e2f30c77dbf0fb";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+<script src="http://s11.cnzz.com/z_stat.php?id=1259871818&web_id=1259871818" language="JavaScript"></script>
 
 
 <title>我的第一个 HTML 页面</title>
