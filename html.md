@@ -5,60 +5,8 @@
 </head>
 
 <body>
-<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=www.twzy.tw/&digit=style/plain/1/&reloads=0" alt="" title="" border="0"></a><br />
-<p>body 元素的内容会显示在浏览器中。</p>
-<p>title 元素的内容会显示在浏览器的标题栏中。</p>
-<SCRIPT language=JavaScript>
-<!--
-var caution = false
-function setCookie(name, value, expires, path, domain, secure) {
-var curCookie = name + "=" + escape(value) +
-((expires) ? "; expires=" + expires.toGMTString() : "") +
-((path) ? "; path=" + path : "") +
-((domain) ? "; domain=" + domain : "") +
-((secure) ? "; secure" : "")
-if (!caution || (name + "=" + escape(value)).length <= 4000)
-document.cookie = curCookie
-else
-if (confirm("Cookie exceeds 4KB and will be cut!"))
-document.cookie = curCookie
-}
-function getCookie(name) {
-var prefix = name + "="
-var cookieStartIndex = document.cookie.indexOf(prefix)
-if (cookieStartIndex == -1)
-return null
-var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
-if (cookieEndIndex == -1)
-cookieEndIndex = document.cookie.length
-return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
-}
-function deleteCookie(name, path, domain) {
-if (getCookie(name)) {
-document.cookie = name + "=" +
-((path) ? "; path=" + path : "") +
-((domain) ? "; domain=" + domain : "") +
-"; expires=Thu, 01-Jan-70 00:00:01 GMT"
-}
-}
-function fixDate(date) {
-var base = new Date(0)
-var skew = base.getTime()
-if (skew > 0)
-date.setTime(date.getTime() - skew)
-}
-var now = new Date()
-fixDate(now)
-now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
-var visits = getCookie("counter")
-if (!visits)
-visits = 1
-else
-visits = parseInt(visits) + 1  //改为1000，增加好快，^_^
-setCookie("counter", visits, now)
-document.write("您是第" + visits + "位")
-// -->
-</SCRIPT>
+
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=github.com/wuzongxian926/video_list/blob/master/zy.md&digit=style/plain/5/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://www.twzy.tw" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">台湾综艺</a>
 
 </body>
 
